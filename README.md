@@ -10,7 +10,7 @@ You know whats the worst part? you uninstall edge and it keeps returning back to
 
 I DONT WANT A BROWSER RUNNING IN MY PC 24/7 cause YOUR RET**DED ASS CANT WRITE C++ CODE OTHER THAN CSS, AND YOU WERE HIRED CAUSE YOU'RE "DIVERSE" F*** OFF
 
-![A screenshot of the Retardedness](Screenshot 2025-11-29 231314.png)
+<img src="Screenshot 2025-11-29 231314.png">
 
 F*** OFF MICROSOFT !!!!
 
