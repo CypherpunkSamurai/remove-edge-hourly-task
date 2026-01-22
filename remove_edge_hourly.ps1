@@ -42,10 +42,12 @@ $paths = @(
     "C:\Program Files (x86)\Microsoft\EdgeCore",
     "C:\Program Files (x86)\Microsoft\EdgeUpdate",
     "C:\Program Files (x86)\Microsoft\EdgeWebView",
+    "C:\Program Files (x86)\Microsoft\EdgeWebView\Application",
     "C:\Program Files\Microsoft\Edge",
     "C:\Program Files\Microsoft\EdgeCore",
     "C:\Program Files\Microsoft\EdgeUpdate",
-    "C:\Program Files\Microsoft\EdgeWebView"
+    "C:\Program Files\Microsoft\EdgeWebView",
+    "C:\Program Files\Microsoft\EdgeWebView\Application"
 )
 
 foreach ($path in $paths) {
